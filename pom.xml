@@ -7,7 +7,7 @@
   <version>1.0-SNAPSHOT</version>
 
   <properties>
-    <!-- Omitted for brevity -->
+
   </properties>
 
   <dependencies>
@@ -26,7 +26,6 @@
       <type>maven-plugin</type>
     </dependency>
 
-    <!-- Omitted for brevity -->
   </dependencies>
 
     <build>
